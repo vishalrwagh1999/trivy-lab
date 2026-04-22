@@ -7,9 +7,6 @@
 
 This repository contains **end-to-end hands-on demos and automation scripts for Trivy**, aligned **chapter-by-chapter with the Trivy One‑Shot YouTube Masterclass**.
 
-<p align="center">
-<img width="1280" height="720" alt="Blue Black and White Bold Social Media Growth YouTube Thumbnail" src="https://github.com/user-attachments/assets/032d0269-3abb-485f-a508-8462cf0649ca" />
-</p>
 
 It covers **Docker image scanning, filesystem scans, secret detection, SBOM, automation, and enterprise concepts**, following real-world **DevSecOps best practices**.
 
@@ -129,7 +126,7 @@ Automation ensures security is **continuous, not manual**.
 
 ## 📄 Resources
 
-- 📦 GitHub Repo: https://github.com/theshubhamgour/trivy-tutorial  
+- 📦 GitHub Repo: https://github.com/vishalrwagh1999/trivy-lab  
 - 📊 PPT Slides: https://drive.google.com/file/d/1PN_IXnveUYOs_6Au4Wd_V1sfXdn90zWX/view?usp=sharing  
 
 ---
